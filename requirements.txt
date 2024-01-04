@@ -2,8 +2,8 @@ pypdf
 langchain
 torch
 accelerate
-# bitsandbyte
 transformers
 sentence_transformers
 faiss_cpu
 chainlit
+streamlit
