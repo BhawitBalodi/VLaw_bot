@@ -7,7 +7,7 @@ you can use it :
 
 Making virtual enviroment:
 
-```python -m venv myenv```
+```python -m venv myenv``` \n
 ```myenv/Scripts/activate```
 ```pip install -r requirements.txt```
 ```python ingest.py```
