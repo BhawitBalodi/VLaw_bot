@@ -9,6 +9,9 @@ Making virtual enviroment:
 
 ```python -m venv myenv``` <br/>
 ```myenv/Scripts/activate```<br/>
+
+Then run these commands:
+
 ```pip install -r requirements.txt```<br/>
 ```python ingest.py```<br/>
 ```chainlit run model_chainlit.py -w```<br/>
